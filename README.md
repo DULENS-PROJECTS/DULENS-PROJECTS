@@ -1,10 +1,11 @@
 
-<div aline='center'>
+<div align='center'>
 <img src="https://graph.org/file/68defbbf736da5153848d.jpg">
+</div>
   
-<div aline='center'>
+<div align='center'>
 <table><tr><th> • 𝔇𝔲𝔩𝔢𝔫 𝔖𝔞𝔱𝔥𝔰𝔞𝔯𝔞 • </th><a href="(https://github.com/DULENS-PROJECTS/DULENS-PROJECTS/tree/main)"></a></td><a href="(https://github.com/DULENS-PROJECTS)"></a></table>
-<div>
+</div>
 
 ***
 <h2>S𝑶𝑪𝑰𝑨𝑳 𝑴𝑬𝑫𝑰𝑨</h2>
