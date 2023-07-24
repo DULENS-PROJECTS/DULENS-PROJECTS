@@ -42,7 +42,7 @@
 
 
 <div align="center">
-<a href="DONT TOCH ALL PICTURES { MOTHER FUCKER 🙄 }"><img src="https://graph.org/file/0b6923c02299f2c97c0a1.jpg" width="300">
+<a href="DONT TOCH ALL PICTURES { MOTHER FUCKER 🙄 }"><img src="https://graph.org/file/8d8d4d1ae0dd2a9fd8c80.jpg" width="300">
 </div>
 
 
