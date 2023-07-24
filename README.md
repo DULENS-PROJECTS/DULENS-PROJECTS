@@ -1,4 +1,7 @@
-
+<p align="left"> 
+  <a href="https://github.com/Shizu-Hub"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+black&color=DCC12E&lines=DULENS+GITHUB+PROFILE;DON'T+FORGET+TO+MESSAGE;MY+SOCIAL+ NUMBERS...+%F0%9F%91%8B" height="50px"
+</p>
+    
 <div align='center'>
 <a href="https://github.com/DULENS-PROJECTS/DULENS-PROJECTS"><img src="https://graph.org/file/1e3128294af46f23ddf34.gif" width="230" height="25">
 </div>
@@ -19,8 +22,9 @@
 <img src="https://komarev.com/ghpvc/?username=DULENS-PROJECTS&style=flat-square">
 </div>
 
-***
-<h2>S𝑶𝑪𝑰𝑨𝑳 𝑴𝑬𝑫𝑰𝑨</h2>
+
+
+ ><h2>S𝑶𝑪𝑰𝑨𝑳 𝑴𝑬𝑫𝑰𝑨</h2>
 
 <a href="https://wa.me//+94725058591"><img src="https://img.shields.io/badge/WHATSAPP-03C75A?style=for-the-badge&logo=WHATSAPP&logoColor=FFFFFF"></a>
 <a href="https://t.me/d_sathsara"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
@@ -34,16 +38,42 @@
 <a href="https://youtube.com/@DaFaqB00M"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 <a href="Link Soon..."><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
-***
+
+> <h2>PC SPΞCS 😩💔</h2>
+|             ||             |
+|       f      |                                           
+|-------------|
+|             |                                 
+|       g      |                  
+|        j     |                     
+|             |                            
+|             |
+|             |
+|             |                 
+|             |    
+|             |                                           
+|-------------|
+|             |                                 
+|             |                  
+|             |                     
+|             |                            
+|             |
+|             |
+|             |                 
+|             |           
+
+
 
 <div align="center">
-<h2>𝑰'𝒍𝒍  𝒎𝒂𝒌𝒆  𝒊𝒕  𝒍𝒂𝒕𝒆𝒓 . . .</h2>
+ <h2> 𝑰'𝒍𝒍  𝒎𝒂𝒌𝒆  𝒊𝒕  𝒍𝒂𝒕𝒆𝒓 . . .</h2>
 </div>
 
 
 <div align="center">
 <a href="DONT TOCH ALL PICTURES { MOTHER FUCKER 🙄 }"><img src="https://graph.org/file/8d8d4d1ae0dd2a9fd8c80.jpg" width="300">
 </div>
+
+
 
 
 
