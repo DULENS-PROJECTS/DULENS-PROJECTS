@@ -39,29 +39,6 @@
 <a href="Link Soon..."><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 
-> <h2>PC SPΞCS 😩💔</h2>
-|             ||             |
-|       f      |                                           
-|-------------|
-|             |                                 
-|       g      |                  
-|        j     |                     
-|             |                            
-|             |
-|             |
-|             |                 
-|             |    
-|             |                                           
-|-------------|
-|             |                                 
-|             |                  
-|             |                     
-|             |                            
-|             |
-|             |
-|             |                 
-|             |           
-
 
 
 <div align="center">
